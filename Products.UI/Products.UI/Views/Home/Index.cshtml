@@ -1,0 +1,44 @@
+﻿@model Products.DAL.Model.Product
+
+@{
+    ViewBag.Title = "Список";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    <h3>Товары и услуги</h3>
+
+    <div id="modDialog" class="modal fade">
+        <div id="dialogContent" class="modal-dialog"></div>
+    </div>
+
+    <table class="table-responsive">
+        <tr>
+            <th><p>Название</p></th>
+            <th><p>Количество</p></th>
+            <th><p>Закупочная цена (грн)</p></th>
+            <th><p>Категория</p></th>
+            <th><p>Редактирование</p></th>
+
+        </tr>
+        @foreach (var p in ViewBag.Products)
+            {
+            <tr>
+                <td><p>@p.Name</p></td>
+                <td><p>@p.Quantity</p></td>
+                <td><p class="price">@p.Price</p></td>
+                <td><p>@p.Category</p></td>
+                <td><p><a href="/Home/Delete/@p.Id" class="popupItem">Удалить</a></p></td>
+            </tr>
+        }
+    </table>
+    <br />
+    <label for="indexation">Процент индексации </label>
+    <input type="text" class="small" id="indexation" /><button type="button" class="btn btn-primary btn-sm" id="indexButton">Индексация</button>
+    <br />
+    <a href="/Home/Create"  class="popupItem">Добавить елемент списка</a>
+</div>
+
+
+

@@ -1,0 +1,20 @@
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\Products.Services.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\Products.Services.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\Products.DAL.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\Products.DAL.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\obj\Debug\Products.Services.csprojResolveAssemblyReference.cache
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\obj\Debug\Products.Services.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\obj\Debug\Products.Services.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\EntityFramework.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\EntityFramework.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.Services\Products.Services\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\Products.Services.dll
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\Products.Services.pdb
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\Products.DAL.dll
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\EntityFramework.dll
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\Products.DAL.pdb
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\EntityFramework.xml
+C:\Users\Taras\Products\Products.Services\Products.Services\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Taras\Products\Products.Services\Products.Services\obj\Debug\Products.Services.csprojResolveAssemblyReference.cache
+C:\Users\Taras\Products\Products.Services\Products.Services\obj\Debug\Products.Services.dll
+C:\Users\Taras\Products\Products.Services\Products.Services\obj\Debug\Products.Services.pdb

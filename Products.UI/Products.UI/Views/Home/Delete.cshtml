@@ -1,0 +1,35 @@
+﻿@model Products.DAL.Model.Product
+
+<div class="modal-content">
+    <div class="modal-body">
+        <h2>Удаление из списка</h2>
+        <dl>
+            <dt>Название</dt>
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>Количество</dt>
+            <dd>
+                @Html.DisplayFor(model => model.Quantity)
+            </dd>
+
+            <dt>Закупочная цена</dt>
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+
+            <dt>Категория</dt>
+            <dd>
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            <input type="submit" class="btn btn-default btn-sm" value="Удалить" />
+            <button type="button" class="btn btn-warning btn-sm" data-dismiss="modal" id="btn-white">@Html.ActionLink("Закрыть", "Index")</button>
+        }
+    </div>
+</div>
+

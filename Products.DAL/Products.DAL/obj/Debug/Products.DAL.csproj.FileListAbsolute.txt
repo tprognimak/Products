@@ -1,0 +1,24 @@
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\Products.DAL.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\Products.DAL.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\obj\Debug\Products.DAL.csprojResolveAssemblyReference.cache
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\obj\Debug\Products.DAL.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\obj\Debug\Products.DAL.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\Products.DAL.dll.config
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.DAL\Products.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\Products.DAL.dll.config
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\Products.DAL.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\Products.DAL.pdb
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\obj\Debug\Products.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Taras\Products\Products.DAL\Products.DAL\obj\Debug\Products.DAL.dll
+C:\Users\Taras\Products\Products.DAL\Products.DAL\obj\Debug\Products.DAL.pdb

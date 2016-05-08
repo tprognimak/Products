@@ -1,0 +1,114 @@
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\csc.exe
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\vbc.exe
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.UI.dll.config
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.UI.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.UI.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Antlr3.Runtime.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Newtonsoft.Json.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.Services.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Helpers.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Mvc.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Optimization.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Razor.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.WebPages.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\WebGrease.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.DAL.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.Services.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Helpers.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Mvc.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Optimization.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.Razor.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.WebPages.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Antlr3.Runtime.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Newtonsoft.Json.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\Products.DAL.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\obj\Debug\Products.UI.csprojResolveAssemblyReference.cache
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\obj\Debug\Products.UI.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\obj\Debug\Products.UI.pdb
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\EntityFramework.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\EntityFramework.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\EntityFramework.resources.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\X550L\Google Диск\Projects\Products\Products.UI\Products.UI\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\csc.exe
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\vbc.exe
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.UI.dll.config
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.UI.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.UI.pdb
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Antlr3.Runtime.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\EntityFramework.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Newtonsoft.Json.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.DAL.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.Services.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Helpers.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Mvc.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Optimization.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Razor.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.WebPages.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\WebGrease.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.DAL.pdb
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Products.Services.pdb
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\EntityFramework.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Helpers.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Mvc.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Optimization.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.Razor.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.WebPages.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\Newtonsoft.Json.xml
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\EntityFramework.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\obj\Debug\Products.UI.csprojResolveAssemblyReference.cache
+C:\Users\Taras\Products\Products.UI\Products.UI\obj\Debug\Products.UI.dll
+C:\Users\Taras\Products\Products.UI\Products.UI\obj\Debug\Products.UI.pdb
