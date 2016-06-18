@@ -15,16 +15,16 @@
             {
             @Html.LabelFor(model => model.Name, "Название")
             <br />
-            @Html.EditorFor(model => model.Name)
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { required = "required" } })
             @Html.ValidationMessageFor(model => model.Name)
             <br /><br />
                 @Html.LabelFor(model => model.Quantity, "Количество")
                 <br />
-                @Html.EditorFor(model => model.Quantity)
+                @Html.EditorFor(model => model.Quantity, new { htmlAttributes = new { required = "required" } })
                 <br /><br />
                 @Html.LabelFor(model => model.Price, "Закупочная цена")
                 <br />
-                @Html.EditorFor(model => model.Price)
+                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { required = "required" } })
                 @Html.ValidationMessageFor(model => model.Price)
                 <br /><br />
                 @Html.LabelFor(model => model.Category, "Категория")
